@@ -1,0 +1,20 @@
+C:\Users\Lautaro\source\repos\Gestion de gráfica\Gestion de gráfica\bin\Debug\Gestion de gráfica.exe.config
+C:\Users\Lautaro\source\repos\Gestion de gráfica\Gestion de gráfica\bin\Debug\Gestion de gráfica.exe
+C:\Users\Lautaro\source\repos\Gestion de gráfica\Gestion de gráfica\bin\Debug\Gestion de gráfica.pdb
+C:\Users\Lautaro\source\repos\Gestion de gráfica\Gestion de gráfica\obj\Debug\Gestion de gráfica.csproj.AssemblyReference.cache
+C:\Users\Lautaro\source\repos\Gestion de gráfica\Gestion de gráfica\obj\Debug\Gestion_de_gráfica.Properties.Resources.resources
+C:\Users\Lautaro\source\repos\Gestion de gráfica\Gestion de gráfica\obj\Debug\Gestion de gráfica.csproj.GenerateResource.cache
+C:\Users\Lautaro\source\repos\Gestion de gráfica\Gestion de gráfica\obj\Debug\Gestion de gráfica.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro\source\repos\Gestion de gráfica\Gestion de gráfica\obj\Debug\Gestion de gráfica.exe
+C:\Users\Lautaro\source\repos\Gestion de gráfica\Gestion de gráfica\obj\Debug\Gestion de gráfica.pdb
+C:\Users\Lautaro\source\repos\Gestion de gráfica\Gestion de gráfica\obj\Debug\Gestion_de_gráfica.LDGvisual.resources
+C:\Users\Lautaro\Desktop\Gestion de gráfica\Gestion de gráfica\bin\Debug\Gestion de gráfica.exe.config
+C:\Users\Lautaro\Desktop\Gestion de gráfica\Gestion de gráfica\bin\Debug\Gestion de gráfica.exe
+C:\Users\Lautaro\Desktop\Gestion de gráfica\Gestion de gráfica\bin\Debug\Gestion de gráfica.pdb
+C:\Users\Lautaro\Desktop\Gestion de gráfica\Gestion de gráfica\obj\Debug\Gestion de gráfica.csproj.AssemblyReference.cache
+C:\Users\Lautaro\Desktop\Gestion de gráfica\Gestion de gráfica\obj\Debug\Gestion_de_gráfica.LDGvisual.resources
+C:\Users\Lautaro\Desktop\Gestion de gráfica\Gestion de gráfica\obj\Debug\Gestion_de_gráfica.Properties.Resources.resources
+C:\Users\Lautaro\Desktop\Gestion de gráfica\Gestion de gráfica\obj\Debug\Gestion de gráfica.csproj.GenerateResource.cache
+C:\Users\Lautaro\Desktop\Gestion de gráfica\Gestion de gráfica\obj\Debug\Gestion de gráfica.csproj.CoreCompileInputs.cache
+C:\Users\Lautaro\Desktop\Gestion de gráfica\Gestion de gráfica\obj\Debug\Gestion de gráfica.exe
+C:\Users\Lautaro\Desktop\Gestion de gráfica\Gestion de gráfica\obj\Debug\Gestion de gráfica.pdb
